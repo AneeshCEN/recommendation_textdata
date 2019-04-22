@@ -1,0 +1,67 @@
+One in five people in the UAE are diabetic
+
+For the 1 in 5 people in the UAE who already have diabetes, the recent discovery of new types of the disease hardly sounds like great news. Yet it’s part of a revolution in healthcare that looks set to benefit us all.
+
+Known as precision medicine, it focuses on answering the question that has faced doctors for millennia: what's the best treatment for my patient?
+
+With medical journals brimming with new insights from studies of everything from cancer therapies to vaccines, it may seem bizarre that doctors are still using trial-and-error to treat their patients.
+
+But the truth is that clinical trials typically show only what will happen with the average patient, who famously doesn’t exist. As some wag once pointed out, the average person has slightly less than two legs.
+
+Precision medicine seeks ways around the 'average person' conundrum by drilling down deeper into both the cause of illnesses and their treatment.
+
+The diabetes discovery is a case in point. Until now, doctors have recognised two broad forms of the disease. Type 1 is a so-called auto-immune condition, where the body’s own defences mistakenly attack the pancreas, destroying the cells that make insulin. It often first appears in childhood, and while treatable can never be cured.
+
+In contrast, by far the most prevalent form of diabetes – by a factor of at least 10 to 1 – is Type 2, where the pancreas either doesn’t produce enough insulin or cells don’t respond to it. It’s notoriously linked to lifestyle in later life – especially obesity – but it can sometimes be reversed through better diet. That alone is a big clue that Type 2 is something of a catch-all phrase for various insulin-related conditions.
+
+Now researchers in Sweden and Finland have looked in detail at studies of thousands of patients with diabetes, looking for tell-tale factors that might give a more detailed picture of the disease.
+
+In results published in the medical journal The Lancet, the researchers showed they could identify no fewer than five separate forms. Two correspond to the classic Type 1 and Type 2, representing around 6 per cent and 39 per cent of diabetics in the study.
+
+But more than half of the patients were found to have one of the three new forms lying between the two extremes.
+
+This, in turn, highlighted differences in the effects and likely prognosis. For example, around 40 per cent of such patients have mild diabetes related to obesity, who might benefit from a focus on diet. But over a quarter are severely deficit in insulin and are at higher risk of diabetic eye disease.
+
+The researchers stress that the new classifications are still experimental. Being based purely on Scandinavian patients, it may not take full account of genetic factors known to influence diabetes.
+
+Such gaps in knowledge are being filled in by other sources of insight – such as genetic sequencing projects like the recently-announced UAE Human Genome Project, which will screen the DNA of all 3 million residents in Dubai.
+
+Part of the Dubai 10X initiative, this will allow researchers to look for links between diseases and specific genes with the aim of tailoring treatments even more precisely.
+
+It’s an approach that is already paying off. Using genetic information from the UK Biobank project set up in the mid-2000s and involving 500,000 people, researchers have found that many diabetes patients have been misdiagnosed.
+
+Doctors have tended to assume that when adults show signs of diabetes, it’s most likely Type 2, simply because Type 1 so often appears in childhood.
+
+But a team at the University of Exeter Medical School is now challenging that wisdom. Using Biobank genetic data, they have found that over 40 per cent of Type 1 diabetes occurs in patients over the age of 30.
+
+That matters because treating patients in the mistaken belief they have Type 2 diabetes can have dire consequences.
+
+The researchers found that 1 in 9 mis-diagnosed adult patients ended up in hospital with diabetic ketoacidosis, a potentially fatal condition that develops when Type 1 patients don’t get the insulin they need.
+
+Other sources of insight are helping to tailor treatments for other diseases, including cancer.
+
+Patients with aggressive forms of cancer don’t have time for the usual trial-and-error approach to finding the best treatment. That can make survival a matter of luck.
+
+But now scientists think they’ve found a faster way of deciding what’s likely to work. The idea is simple but impressively effective: take some cancer cells from the patient, grow them in the lab and then test a host of therapies on them in parallel.
+
+_______________
+
+Read more:
+
+Artificial Intelligence helping diabetic patients keep their sight
+
+Drastic weight loss can reverse diabetes, study shows
+
+_______________
+
+In research just published in the journal Science, a team at the UK Institute of Cancer Research, London, described the results of taking biopsies from 71 patients with gastroesophageal and colorectal cancers, and exposing the cancer cells to different therapies.
+
+They found that if a treatment worked on the mini tumours in the lab cells, it also had an almost 90 per cent chance of working in the patient. The technique was even better at weeding out useless drugs, catching every one at the lab test stage, sparing patients unnecessary side-effects and delay.
+
+The findings also tied in well with predictions made using the genetic fingerprint of the cancer cells, giving further confidence in what drugs are likely to work.
+
+As ever, there is still work to be done. In the study, almost 1 in 3 tumours refused to grow in the lab, and the whole process still takes two months, though the researchers think they can speed this up. It has also only been tested so far on certain types of cancer.
+
+Even so, it is adding to the growing sense of excitement that healthcare is moving into a new era – one that literally treats us as individuals rather than a statistic.
+
+Robert Matthews is Visiting Professor of Science at Aston University, Birmingham, UK

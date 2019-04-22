@@ -1,0 +1,149 @@
+
+
+ORIGINAL ARTICLE Year : 2018 | Volume : 1 | Issue : 1 | Page : 25-29
+
+Role of human epidermal growth factor receptor 2 antagonist (Trastuzumab) in the management of nonmuscle-invasive urinary bladder carcinoma
+
+
+
+Raafat Hegazy1, Abdelmonem Hegazy2, Mostafa Kamel3, Ola El-Farargy4, Nashwa Nawar5, Ahmed El-Atar5
+
+1 Department of Pathology, Faculty of Medicine, Zagazig University, Zagazig, Egypt
+
+2 Department of Anatomy, Faculty of Medicine, Zagazig University, Zagazig, Egypt
+
+3 Department of Urology, Faculty of Medicine, Zagazig University, Zagazig, Egypt
+
+4 Department of Medical Oncology, Faculty of Medicine, Zagazig University, Zagazig, Egypt
+
+5 Department of Radiotherapy, Faculty of Medicine, Zagazig University, Zagazig, Egypt
+
+
+
+Date of Web Publication 30-Jan-2018
+
+Correspondence Address:
+
+Dr. Raafat Hegazy
+
+Department of Pathology, Zagazig University, Zagazig
+
+Egypt
+
+Source of Support: None, Conflict of Interest: None Check
+
+DOI: 10.4103/tme.tme_15_17
+
+
+
+Abstract
+
+
+
+Background: Superficial bladder cancers (nonmuscle invasive) are commonly faced by urologists and represent a major challenge for urologists and oncologists, especially Grade III carcinomas, whether conservative treatment is sufficient alone or with radical cystectomy is essential. Aim of the Study: We aimed to find a way to avoid recurrences in the nonmuscle-invasive bladder cancer and in the same time avoid radical cystectomy. Patient and Methods: We selected 42 patients with nonmuscle-invasive bladder cancers from those attending to Urology Department, Zagazig University Hospitals, from December 2011 to January 2015. After complete transurethral resection (TUR) bladder resection, diagnosis of biopsy was based on H and E-stained sections. Then, human epidermal growth factor receptor 2 (Her2) immunostaining was performed for all paraffin blocks derived from the patients. Trastuzumab was given to all cases that were positive to Her2, and only one case of them did not receive trastuzumab and left as a control. All cases then underwent follow-up for 20 months. Results: We found a significant relationship (P = 0.05) between Her2 immunostaining positivity and tumor stage, grade, multifocality, and recurrences/progression. Most cases who received trastuzumab did not undergo recurrences (19/22) (P = 0.005). We found also decrease in the immunostaining in cases of recurrences, indicating the presence of other factors affecting the occurrence or recurrences/progression. Conclusions: We concluded that administration of anti-Her2 therapy (like trastuzumab) may be essential for Her2-positive superficial bladder cancer to avoid recurrences after complete TUR bladder (TURB). Recommendation: We recommend for other studies on the significances of recurrences and how to avoid them.
+
+
+
+Keywords: Bladder carcinoma, human epidermal growth factor receptor 2 antagonist, nonmuscle invasive bladder cancer
+
+How to cite this article:
+
+Hegazy R, Hegazy A, Kamel M, El-Farargy O, Nawar N, El-Atar A. Role of human epidermal growth factor receptor 2 antagonist (Trastuzumab) in the management of nonmuscle-invasive urinary bladder carcinoma. Tumor Microenviron 2018;1:25-9
+
+How to cite this URL:
+
+Hegazy R, Hegazy A, Kamel M, El-Farargy O, Nawar N, El-Atar A. Role of human epidermal growth factor receptor 2 antagonist (Trastuzumab) in the management of nonmuscle-invasive urinary bladder carcinoma. Tumor Microenviron [serial online] 2018 [cited 2019 Mar 12];1:25-9. Available from: http://www.TMEResearch.org/text.asp?2018/1/1/25/224339
+
+Introduction
+
+Patient and Methods
+
+Results
+
+Table 1: Summary of clinical data, tumor stage, grade, trastuzumab, multiplicity, and recurrences/progressions
+
+
+
+Click here to view
+
+Table 2: Age of patients in relation to sex
+
+
+
+Click here to view
+
+Figure 1: Human epidermal growth factor receptor 2 positive immunostaining in a case of papillary transitional cell carcinoma (T1 gIII), and small area of submucosal infiltration, ×400
+
+
+
+Click here to view
+
+Figure 2: Human epidermal growth factor receptor 2 positive immunostaining in a case of papillary transitional cell carcinoma (Ta gIII), ×400
+
+
+
+Click here to view
+
+Table 3: Relationship of human epidermal growth factor receptor 2 immunohistochemical reactivity to tumor stage, grade, multifocality, and recurrences/progression
+
+
+
+Click here to view
+
+Table 4: Relationship of trastuzumab and absence of recurrences
+
+
+
+
+
+Click here to view
+
+Figure 3: Human epidermal growth factor receptor 2 immunostaining, posttreatment of case of previous strong reactivity; low reaction of human epidermal growth factor receptor 2 is noticed
+
+
+
+Click here to view
+
+Discussion
+
+Conclusions
+
+References
+
+1. et al. The case for early cystectomy in the treatment of nonmuscle invasive micropapillary bladder carcinoma. J Urol 2006;175:881-5.
+
+[PUBMED] Kamat AM, Gee JR, Dinney CP, Grossman HB, Swanson DA, Millikan RE,The case for early cystectomy in the treatment of nonmuscle invasive micropapillary bladder carcinoma. J Urol 2006;175:881-5. 2. et al. EAU guidelines on non-muscle-invasive urothelial carcinoma of the bladder. Eur Urol 2008;54:303-14.
+
+Babjuk M, Oosterlinck W, Sylvester R, Kaasinen E, Böhle A, Palou-Redorta J,EAU guidelines on non-muscle-invasive urothelial carcinoma of the bladder. Eur Urol 2008;54:303-14. 3.
+
+[PUBMED] Pham HT, Soloway MS. High-risk superficial bladder cancer: Intravesical therapy for T1G3 transitional cell carcinoma of the urinary bladder. Semin Urol Oncol 1997;15:147-53. 4. et al. The prognostic significance of P53, P63 and Her2 expression in non-muscle-invasive bladder cancer in relation to treatment with Bacille Calmette-Guerin. Arab J Urol 2015;13:225-30.
+
+[PUBMED] Hegazy R, Kamel M, Salem EA, Salem NA, Fawzy A, Sakr A,The prognostic significance of P53, P63 and Her2 expression in non-muscle-invasive bladder cancer in relation to treatment with Bacille Calmette-Guerin. Arab J Urol 2015;13:225-30. 5. et al. American Society of Clinical Oncology 2007 update of recommendations for the use of tumor markers in breast cancer. J Clin Oncol 2007;25:5287-312.
+
+[PUBMED] Harris L, Fritsche H, Mennel R, Norton L, Ravdin P, Taube S,American Society of Clinical Oncology 2007 update of recommendations for the use of tumor markers in breast cancer. J Clin Oncol 2007;25:5287-312. 6. et al. Prognostic implications of altered human epidermal growth factor receptors (HERs) in gastric carcinomas: HER2 and HER3 are predictors of poor outcome. J Clin Oncol 2011;29:3030-6.
+
+Begnami MD, Fukuda E, Fregnani JH, Nonogaki S, Montagnini AL, da Costa WL Jr.,Prognostic implications of altered human epidermal growth factor receptors (HERs) in gastric carcinomas: HER2 and HER3 are predictors of poor outcome. J Clin Oncol 2011;29:3030-6. 7. et al. Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): A phase 3, open-label, randomised controlled trial. Lancet 2010;376:687-97.
+
+[PUBMED] Bang YJ, Van Cutsem E, Feyereislova A, Chung HC, Shen L, Sawaki A,Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): A phase 3, open-label, randomised controlled trial. Lancet 2010;376:687-97. 8. et al. Her2 alterations in muscle-invasive bladder cancer: Patient selection beyond protein expression for targeted therapy. Sci Rep 2017;7:42713.
+
+[PUBMED] Kiss B, Wyatt AW, Douglas J, Skuginna V, Mo F, Anderson S,Her2 alterations in muscle-invasive bladder cancer: Patient selection beyond protein expression for targeted therapy. Sci Rep 2017;7:42713. 9.
+
+Eble JN, Sauter G, Epstein JI, Sesterhenn IA. Pathology and Genetics of Tumours of the Urinary System and Male Genital Organs. Lyon: IARC; 2004. 10. th ed. Weinheim: Wiley; 2009.
+
+Sobin LH, Gospodarowicz MK, Wittekind C. TNM Classification of Malignant Tumours. 7ed. Weinheim: Wiley; 2009. 11.
+
+Boenisch T, Farmilo AJ, Stead R, editors. Hand Book Immunochemical Staining Methods. California USA: DAKO Corporation Carpinteria; 2001. p. 1-62. 12.
+
+[PUBMED] Horstmann M, Witthuhn R, Falk M, Stenzl A. Gender-specific differences in bladder cancer: A retrospective analysis. Gend Med 2008;5:385-94. 13. et al. Clinical significance of Her2/neu overexpression in urothelial carcinomas. Rom J Morphol Embryol 2010;51:277-82.
+
+Alexa A, Baderca F, Zăhoi DE, Lighezan R, Izvernariu D, Raica M,Clinical significance of Her2/neu overexpression in urothelial carcinomas. Rom J Morphol Embryol 2010;51:277-82. 14.
+
+Charfia S, Khabira A, Mnifa H, Ellouzea S, Mhirib M, Sellamia T. Immunohistochemical expression of HER2 in urothelial bladder carcinoma and its correlation with p53 and p63 expression. J Microsc Ultrastruct 2013;1:17-21. 15.
+
+[PUBMED] Iqbal N, Iqbal N. Human epidermal growth factor receptor 2 (HER2) in cancers: Overexpression and therapeutic implications. Mol Biol Int 2014;2014:852748. 16. et al. Does HER2/neu expression provide prognostic information in patients with advanced urothelial carcinoma? Cancer 2002;95:1009-15.
+
+Gandour-Edwards R, Lara PN Jr., Folkins AK, LaSalle JM, Beckett L, Li Y,Does HER2/neu expression provide prognostic information in patients with advanced urothelial carcinoma? Cancer 2002;95:1009-15. 17.
+
+American Cancer Society: Breast Cancer Facts & [Figure 2015], [Figure 2016]. 2016. Available from: http://www.cancer. Org/acs/groups/content/@research/documents/documents/acspc-046381.pdf . [Last accessed on 2016 Apr 06].
+
+Figures
